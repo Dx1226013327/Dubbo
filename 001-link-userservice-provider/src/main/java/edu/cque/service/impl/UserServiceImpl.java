@@ -10,4 +10,8 @@ public class UserServiceImpl implements UserService {
         user.setName("张三");
         return user;
     }
+
+    public Integer queryAllUserCount() {
+        return 52;
+    }
 }

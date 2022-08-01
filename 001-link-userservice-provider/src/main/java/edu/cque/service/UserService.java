@@ -9,4 +9,6 @@ public interface UserService {
      * @return
      */
     User queryUserById(Integer id);
+
+    Integer queryAllUserCount();
 }

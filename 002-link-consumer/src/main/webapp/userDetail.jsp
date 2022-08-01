@@ -14,5 +14,6 @@
 <h1>用户详情</h1>
 <div>用户标识:${user.id}</div>
 <div>用户名称:${user.name}</div>
+<div>用户人数:${allUserCount}</div>
 </body>
 </html>

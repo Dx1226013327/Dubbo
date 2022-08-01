@@ -49,7 +49,7 @@
     <!--依赖服务提供者-->
     <dependency>
       <groupId>edu.cque</groupId>
-      <artifactId>001-link-userservice-provider</artifactId>
+      <artifactId>interface</artifactId>
       <version>1.0</version>
     </dependency>
 
